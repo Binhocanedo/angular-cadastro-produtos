@@ -1,4 +1,3 @@
-# Cadastro de Produtos com Angular
+#TAREFA 08 - FATEC IT
 
-Projeto desenvolvido para reforçar os conceitos sobre Angular ensinados na aula de Eletiva WEB do curso de Análise e Desenvolvimento de Sistemas. 
-# angular-cadastro-produtos
+Projeto criado a partir da framework Angular 
